@@ -24,6 +24,6 @@ public class Acceptfindsmallestno {
         if(c<small){
             small=c;
         }
-        System.out.println("no:"+small);
+        System.out.println("Small no:"+small);
     }    
 }

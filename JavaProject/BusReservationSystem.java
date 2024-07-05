@@ -1,4 +1,3 @@
-// This is joint JavaProject of Mohit, Siddhesh, Nayan, Ved //
 
 import java.util.*;
 
